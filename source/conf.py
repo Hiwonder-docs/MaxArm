@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Test'
+project = 'MaxArm'
 copyright = '2025, Hiwonder'
 author = 'Hiwonder'
 release = 'v1.0'
