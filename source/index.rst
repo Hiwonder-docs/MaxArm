@@ -11,7 +11,7 @@ MaxArm
    :maxdepth: 2
    :caption: MaxArm
 
-   docs/1.Getting _Ready_checked.md
+   docs/1.Getting_Ready_checked.md
    docs/2.Remote_Control_formatted.md
    docs/3.PC_Software_checked.md
    docs/4.Underlying_Program_Learning_checked.md
